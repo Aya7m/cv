@@ -8,28 +8,28 @@ const projects = [
     name: "Socially App",
    
     align: "right",
-    image: "../../public/images/socially.png",
+    image: "https://res.cloudinary.com/dnejzqj2z/image/upload/v1737402142/socially_g3c205.png",
     link: "https://github.com/Aya7m/socially-nextjs-app",
   },
   {
     name: "E-commerce",
    
     align: "left",
-    image: "../../public/images/e-comm.png",
+    image: "https://res.cloudinary.com/dnejzqj2z/image/upload/v1737402215/e-comm_j0cyxp.png",
     link: "https://github.com/Aya7m/e-commerc-mern-",
   },
   {
     name: "Spotifly",
     
     align: "right",
-    image: "../../public/images/spotify (2).png",
+    image: "https://res.cloudinary.com/dnejzqj2z/image/upload/v1737402281/spotify_2_i5w3ot.png",
     link: "https://github.com/Aya7m/spotify-clone",
   },
   {
     name: "Twitter Clone",
    
     align: "left",
-    image: "../../public/images/twiter.png",
+    image: "https://res.cloudinary.com/dnejzqj2z/image/upload/v1737402349/twiter_k8cm0y.png",
     link: "https://github.com/Aya7m/twitter-clone",
   },
 
@@ -37,14 +37,14 @@ const projects = [
     name: "Chatty App",
     
     align: "right",
-    image: "../../public/images/chatty.png",
+    image: "https://res.cloudinary.com/dnejzqj2z/image/upload/v1737402419/chatty_zrr4mr.png",
     link: "https://github.com/Aya7m/mern-stack-chatty-app",
   },
   {
     name: "Netflix Clone",
    
     align: "left",
-    image: "../../public/images/netflex.png",
+    image: "https://res.cloudinary.com/dnejzqj2z/image/upload/v1737402466/netflex_gagsre.png",
     link: "https://github.com/Aya7m/netFlex-clone",
   },
 
@@ -52,7 +52,7 @@ const projects = [
     name: "OnlyFans Clone",
     
     align: "right",
-    image: "../../public/images/only.png",
+    image: "https://res.cloudinary.com/dnejzqj2z/image/upload/v1737402532/only_egquih.png",
     link: "https://github.com/Aya7m/onlyhors-",
   },
  

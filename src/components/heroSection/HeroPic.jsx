@@ -12,7 +12,7 @@ const HeroPic = () => {
       className=" h-full flex items-center justify-center "
     >
       <img
-        src="../../public/images/gi.png"
+        src="https://res.cloudinary.com/dnejzqj2z/image/upload/v1737402037/gi_pb3ju1.png"
         alt="Abdelrahman Qassem"
         className="max-h-[450px] w-auto"
       />
