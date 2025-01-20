@@ -31,7 +31,7 @@ const HeroText = () => {
         viewport={{ once: false, amount: 0 }}
         className="text-lg mt-4"
       >
-        FullStack Web Developer  <br /> with 2 years of
+        FullStack Web Developer  <br /> with 4 years of
         experience.
 
 
