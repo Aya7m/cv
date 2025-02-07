@@ -59,7 +59,7 @@ const projects = [
     name: "Store Website With React and Sql",
     
     align: "left",
-    image: "https://asset.cloudinary.com/dnejzqj2z/421fc25709513ab9db34739ba6567f8d",
+    image: "https://res.cloudinary.com/dnejzqj2z/image/upload/v1738959475/tt_w0p9ld.png",
     link: "https://github.com/Aya7m/pern-stack",
   }
  
