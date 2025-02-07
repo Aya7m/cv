@@ -55,6 +55,13 @@ const projects = [
     image: "https://res.cloudinary.com/dnejzqj2z/image/upload/v1737402532/only_egquih.png",
     link: "https://github.com/Aya7m/onlyhors-",
   },
+  {
+    name: "Store Website With React and Sql",
+    
+    align: "left",
+    image: "https://asset.cloudinary.com/dnejzqj2z/421fc25709513ab9db34739ba6567f8d",
+    link: "https://github.com/Aya7m/pern-stack",
+  }
  
 ];
 

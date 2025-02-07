@@ -51,7 +51,8 @@ const skills = [
   {
     skill: "NodeJS",
     icon: FaNodeJs, 
-  }
+  },
+  
 
 ];
 
