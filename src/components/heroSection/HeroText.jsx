@@ -36,7 +36,7 @@ const HeroText = () => {
 
 
         <div className="mt-4 flex items-center justify-center  bg-gradient-to-t from-cyan to-lightGrey rounded px-4 py-2   gap-3">
-          <a href="./mern stack cv.pdf" download="Aya Ahmed CV.pdf" >Download CV
+          <a href="./Aya Ahmed CV.pdf" download="Aya Ahmed CV.pdf" >Download CV
 
           </a>
           <Download size={20} />
