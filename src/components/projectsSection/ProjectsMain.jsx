@@ -11,6 +11,24 @@ const projects = [
     image: "https://res.cloudinary.com/dnejzqj2z/image/upload/v1737402142/socially_g3c205.png",
     link: "https://github.com/Aya7m/socially-nextjs-app",
   },
+
+  {
+    name: "Halwany E-Commerce backend",
+   
+    align: "left",
+    image: "https://res.cloudinary.com/dnejzqj2z/image/upload/v1744116088/14_74c55a47-9839-45ab-b0de-8c15f3dac2f5_hwcfzz.webp",
+    link : "https://github.com/Aya7m/halwany-backend",
+   
+  },
+
+  {
+    name: "Halwany E-Commerce frontend",
+   
+    align: "Right",
+    image: "https://res.cloudinary.com/dnejzqj2z/image/upload/v1744116088/14_74c55a47-9839-45ab-b0de-8c15f3dac2f5_hwcfzz.webp",
+    link : "https://github.com/Aya7m/halwany-frontend",
+   
+  },
   {
     name: "E-commerce",
    
