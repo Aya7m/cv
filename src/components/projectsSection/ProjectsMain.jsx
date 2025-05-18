@@ -8,7 +8,7 @@ const projects = [
    {
     name: "Chat & Call App",
    
-    align: "right",
+    align: "left",
     image: "https://res.cloudinary.com/dnejzqj2z/image/upload/v1747610096/Capturettt_yqgr7c.png",
     link: "https://stream-frontend-gllrovn08-ayas-projects-ecef4715.vercel.app",
   },
