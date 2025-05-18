@@ -4,13 +4,22 @@ import { motion } from "framer-motion";
 import { fadeIn } from "../../framerMotion/variants";
 
 const projects = [
+
+   {
+    name: "Chat & Call App",
+   
+    align: "right",
+    image: "https://res.cloudinary.com/dnejzqj2z/image/upload/v1747610096/Capturettt_yqgr7c.png",
+    link: "https://stream-frontend-gllrovn08-ayas-projects-ecef4715.vercel.app",
+  },
   {
     name: "Socially App",
    
     align: "right",
     image: "https://res.cloudinary.com/dnejzqj2z/image/upload/v1737402142/socially_g3c205.png",
-    link: "https://github.com/Aya7m/socially-nextjs-app",
+    link: "https://vercel.com/ayas-projects-ecef4715/socially-nextjs-app",
   },
+
 
   {
     name: "Halwany E-Commerce backend",
